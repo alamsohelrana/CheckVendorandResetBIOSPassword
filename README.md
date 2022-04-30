@@ -1,7 +1,8 @@
 # CheckVendorandResetBIOSPassword
 This VBScript will find the machine vendor and take actions accordingly to clear the password .
 
-A bit of History
+##### A bit of History
+
 Few months ago I was assigned a task to clear the BIOS Passwords of bunch of machines.
 
 Only two challenges.

@@ -10,7 +10,7 @@ Only two challenges.
 ( and different vendors use different wmi classes to save their BIOS system configurations. )
 
 2. Few machines were having one password while others were having something different set on their BIOS 
-( different machines were procured at different times  at different locations which lead to this sutiation currently. )
+( different machines were procured at different times  at different locations which lead to current situation. )
 
 So..
 To tackle the first challenge
